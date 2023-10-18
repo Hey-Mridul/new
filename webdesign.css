@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+
+
+h2 {
+    color: rgb(227, 255, 124);
+    text-shadow: 2px 1px 9px black;
+    
+}
+body {
+    background-color: rgb(8, 0, 82);
+   
+    
+    
+    background-repeat: no-repeat;
+    text-shadow: 2px 1px 5px rgb(94, 1, 1);
+    position: relative;
+    
+    
+    
+}
+table {
+    color: white;
+    
+}
+ol {
+    color: rgb(90, 255, 131);
+}
+h4{
+    color: rgb(255, 137, 186);
+}
+h3{
+    color: rgb(255, 177, 87);
+    text-align: center;
+}

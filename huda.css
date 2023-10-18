@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+.form1 {
+    background: color #ccc;
+    color:rgba(12, 105, 12, 0.726);
+    text-align: center;
+    font-size: 15px;
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px 80px;
+    margin-top: 30px;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.form1 input{
+    padding: 10px 50px;
+    border-color: rgba(27, 177, 127, 0.473);
+    border-radius: 0%;
+    background-color: #ffffff46;}
